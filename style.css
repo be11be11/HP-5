@@ -3,7 +3,7 @@
 div.祖 {border:2px solid blue; width: 100%; background-color: rgba(200, 0, 100, 0.2); display:flex; flex-flow: column; }
 div.親1 {border:2px solid aqua; width: 99%; height: 325px; background-color: rgba(0, 150, 50, 0.3); }
 div.親2 {border:2px solid lime; width: 99%; height: 650px; background-color: rgba(0, 150, 50, 0.3); }
-div.子 {border:2px solid orange; width: 25%; height: 325px; background-color: rgba(100, 250, 0, 0.2); margin-top: 100px; margin-left: -100px; }
+div.子 {border:2px solid orange; width: 85%; height: 325px; background-color: rgba(100, 250, 0, 0.2); margin-top: 100px; margin-left: 100px; }
 
-.sns1 {border:2px solid pink; width: 25%; background-color: rgba(0, 250, 50, 0.2); margin-top: 20px; margin-left: 45px; }
-.sns2 {border:2px solid aqua; width: 25%; background-color: rgba(150, 50, 00, 0.2); margin-top: -70px; margin-left: 200px; }
+.sns1 {border:2px solid pink; width: 30%; background-color: rgba(0, 250, 50, 0.2); margin-top: 20px; margin-left: 45px; }
+.sns2 {border:2px solid aqua; width: 30%; background-color: rgba(150, 50, 00, 0.2); margin-top: 30px; margin-left: 200px; }
