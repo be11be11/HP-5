@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-div.祖 {border:2px solid blue; width: 100%; height: 600px; background-color: rgba(200, 0, 100, 0.2); justify-content: center; }
+div.祖 {border:2px solid blue; width: 100%; height: 600px; background-color: rgba(200, 0, 100, 0.2); display:flex; flex-flow: column; }
 div.親 {border:2px solid lime; width: 99%; height: 300px; background-color: rgba(0, 150, 50, 0.3); }
 div.子 {border:2px solid orange; width: 25%; height: 150px; background-color: rgba(100, 250, 0, 0.2); }
 
