@@ -3,7 +3,22 @@
 div.祖 {border:2px solid blue; width: 100%; background-color: rgba(200, 0, 100, 0.2); display:flex; flex-flow: column; }
 div.親1 {border:2px solid aqua; width: 99%; height: 325px; background-color: rgba(0, 150, 50, 0.3); }
 div.親2 {border:2px solid lime; width: 99%; height: 650px; background-color: rgba(0, 150, 50, 0.3); }
-div.子 {border:2px solid orange; width: 85%; height: 325px; background-color: rgba(100, 250, 0, 0.2); margin-top: 100px; margin-left: 100px; }
+
+div.店内1 img {border:2px solid orange; width: 90%; background-color: rgba(100, 250, 0, 0.2); z-index: -10;margin-top: 0px; margin-left: 0px; }
+
+div.text1 {border:2px solid orange; width: 85%; height: 325px; background-color: rgba(100, 250, 0, 0.2); margin-top: 0px; margin-left: 0px; }
+
+div.店内2 img {border:2px solid orange; width: 85%; background-color: rgba(100, 250, 0, 0.2); margin-top: 0px; margin-left: 0px; }
+
+div.メニュー1 img {border:2px solid orange; width: 35%; background-color: rgba(100, 250, 0, 0.2); margin-top: 0px; margin-left: 0px; }
+
+div.text2 {border:2px solid orange; width: 35%; height: 325px; background-color: rgba(100, 250, 0, 0.2); margin-top: 0px; margin-left: 55%; }
+
+div.emiko1 img {border:2px solid orange; width: 35%; background-color: rgba(100, 250, 0, 0.2); margin-top: 0px; margin-left: 0px; }
+
+div.text3 {border:2px solid orange; width: 35%; height: 325px; background-color: rgba(100, 250, 0, 0.2); margin-top: 0px; margin-left: 55%; }
+
+div.子 {border:2px solid orange; width: 85%; height: 325px; background-color: rgba(100, 250, 0, 0.2); margin-top: 100px; margin-left: 50px; }
 
 .sns1 {border:2px solid pink; width: 30%; background-color: rgba(0, 250, 50, 0.2); margin-top: 20px; margin-left: 45px; }
 .sns2 {border:2px solid aqua; width: 30%; background-color: rgba(150, 50, 00, 0.2); margin-top: 30px; margin-left: 200px; }
