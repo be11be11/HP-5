@@ -22,6 +22,34 @@ div.text1 {border:2px solid orange; width: 85%; height: 325px; background-color:
 
 div.店内2 img {border:2px solid orange; width: 85%; background-color: rgba(100, 250, 0, 0.2); margin-top: 0%; margin-left: 10%; }
 
+/* 共通するCSS */
+.box6 img{
+  border:1px solid aqua; 
+  position: absolute; 
+  width: 35%;       /* 適当な幅を指定 */
+}
+
+.box6 .ヘア1 {
+  /* 左上に固定 */
+  top: 50px;
+  left: 10px;
+}
+.box6 .ヘア2 {
+  /* 右下に固定 */
+  bottom: 50px;
+  right: 175px;
+}
+.box6 .ヘア3 {
+  /* 右下に固定 */
+  top: 50px;
+  left: 175px;
+}
+.box6 .ヘア4 {
+  /* 右下に固定 */
+  bottom: 50px;
+  right: 10px;
+ }  
+  
 div.メニュー1 img {border:2px solid orange; width: 35%; background-color: rgba(100, 250, 0, 0.2); margin-top: 10%; margin-left: 10%; }
 
 div.text2 {border:2px solid orange; width: 35%; height: 275px; background-color: rgba(100, 250, 0, 0.2); margin-top: -15%; margin-left: 55%; }
@@ -60,6 +88,34 @@ div.text1 {border:2px solid orange; width: 85%; height: 350px; background-color:
 
 div.店内2 img {border:2px solid orange; width: 75%; background-color: rgba(100, 250, 0, 0.2); margin-top: 0; margin-left: 15%; }
 
+ /* 共通するCSS */
+.box6 img{
+  border:1px solid aqua; 
+  position: absolute; 
+  width: 35%;       /* 適当な幅を指定 */
+}
+
+.box6 .ヘア1 {
+  /* 左上に固定 */
+  top: 50px;
+  left: 10px;
+}
+.box6 .ヘア2 {
+  /* 右下に固定 */
+  bottom: 50px;
+  right: 175px;
+}
+.box6 .ヘア3 {
+  /* 右下に固定 */
+  top: 50px;
+  left: 175px;
+}
+.box6 .ヘア4 {
+  /* 右下に固定 */
+  bottom: 50px;
+  right: 10px;
+ }    
+   
 div.メニュー1 img {border:2px solid orange; width: 35%; background-color: rgba(100, 250, 0, 0.2); margin-top: 10%; margin-left: 10%; }
 
 div.text2 {border:2px solid orange; width: 35%; height: 490px; background-color: rgba(100, 250, 0, 0.2); margin-top: -55%; margin-left: 55%; }
@@ -98,6 +154,34 @@ div.text1 {border:2px solid orange; width: 60%; height: 200px; background-color:
 
 div.店内2 img {border:2px solid orange; width: 45%; background-color: rgba(100, 250, 0, 0.2); margin-top: 0%; margin-left: 25%; }
 
+ /* 共通するCSS */
+.box6 img{
+  border:1px solid aqua; 
+  position: absolute; 
+  width: 35%;       /* 適当な幅を指定 */
+}
+
+.box6 .ヘア1 {
+  /* 左上に固定 */
+  top: 50px;
+  left: 10px;
+}
+.box6 .ヘア2 {
+  /* 右下に固定 */
+  bottom: 50px;
+  right: 175px;
+}
+.box6 .ヘア3 {
+  /* 右下に固定 */
+  top: 50px;
+  left: 175px;
+}
+.box6 .ヘア4 {
+  /* 右下に固定 */
+  bottom: 50px;
+  right: 10px;
+ }    
+   
 div.メニュー1 img {border:2px solid orange; width: 15%; background-color: rgba(100, 250, 0, 0.2); margin-top: 5%; margin-left: 10%; }
 
 div.text2 {border:2px solid orange; width: 35%; height: 400px; background-color: rgba(100, 250, 0, 0.2); margin-top: -20%; margin-left: 55%; }
