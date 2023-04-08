@@ -8,9 +8,9 @@ div.親2 {border:2px solid lime; width: 99%; height: 650px; background-color: rg
 
 div.店内1 img {border:2px solid orange; width: 75%; background-color: rgba(100, 250, 0, 0.2); z-index: -10; margin-top: 10%; margin-left: 10%; }
 
-div.text1 {border:2px solid orange; width: 85%; height: 325px; background-color: rgba(100, 250, 0, 0.2); margin-top: 10%; margin-left: 5%; }
+div.text1 {border:2px solid orange; width: 85%; height: 325px; background-color: rgba(100, 250, 0, 0.2); margin-top: 5%; margin-left: 5%; }
 
-div.店内2 img {border:2px solid orange; width: 85%; background-color: rgba(100, 250, 0, 0.2); margin-top: 10%; margin-left: 10%; }
+div.店内2 img {border:2px solid orange; width: 85%; background-color: rgba(100, 250, 0, 0.2); margin-top: 0%; margin-left: 10%; }
 
 div.メニュー1 img {border:2px solid orange; width: 35%; background-color: rgba(100, 250, 0, 0.2); margin-top: 10%; margin-left: 10%; }
 
