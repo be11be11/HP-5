@@ -34,7 +34,7 @@ div.子 {border:2px solid orange; width: 85%; height: 275px; background-color: r
 div.親1 {border:2px solid aqua; width: 99%; height: 450px; background-color: rgba(0, 150, 50, 0.3); }
 div.親2 {border:2px solid lime; width: 99%; height: 900px; background-color: rgba(0, 150, 50, 0.3); }
 
-div.店内1 img {border:2px solid orange; width: 75%; background-color: rgba(100, 250, 0, 0.2); z-index: -10; margin-top: -3%; margin-left: 5%; }
+div.店内1 img {border:2px solid orange; width: 75%; background-color: rgba(100, 250, 0, 0.2); z-index: -10; margin-top: -3%; margin-left: 10%; }
 
 div.text1 {border:2px solid orange; width: 85%; height: 350px; background-color: rgba(100, 250, 0, 0.2); margin-top: -3%; margin-left: 5%; }
 
