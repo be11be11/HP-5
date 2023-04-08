@@ -14,11 +14,11 @@ div.店内2 img {border:2px solid orange; width: 85%; background-color: rgba(100
 
 div.メニュー1 img {border:2px solid orange; width: 35%; background-color: rgba(100, 250, 0, 0.2); margin-top: 10%; margin-left: 10%; }
 
-div.text2 {border:2px solid orange; width: 35%; height: 275px; background-color: rgba(100, 250, 0, 0.2); margin-top: -5%; margin-left: 55%; }
+div.text2 {border:2px solid orange; width: 35%; height: 275px; background-color: rgba(100, 250, 0, 0.2); margin-top: -15%; margin-left: 55%; }
 
 div.emiko1 img {border:2px solid orange; width: 35%; background-color: rgba(100, 250, 0, 0.2); margin-top: 10%; margin-left: 10%; }
 
-div.text3 {border:2px solid orange; width: 35%; height: 275px; background-color: rgba(100, 250, 0, 0.2); margin-top: -5%; margin-left: 55%; }
+div.text3 {border:2px solid orange; width: 35%; height: 275px; background-color: rgba(100, 250, 0, 0.2); margin-top: -15%; margin-left: 55%; }
 
 div.子 {border:2px solid orange; width: 85%; height: 275px; background-color: rgba(100, 250, 0, 0.2); margin-top: 0px; margin-left: 0px; }
 
@@ -34,15 +34,15 @@ div.子 {border:2px solid orange; width: 85%; height: 275px; background-color: r
 div.親1 {border:2px solid aqua; width: 99%; height: 450px; background-color: rgba(0, 150, 50, 0.3); }
 div.親2 {border:2px solid lime; width: 99%; height: 900px; background-color: rgba(0, 150, 50, 0.3); }
 
-div.店内1 img {border:2px solid orange; width: 75%; background-color: rgba(100, 250, 0, 0.2); z-index: -10; margin-top: -5%; margin-left: 10%; }
+div.店内1 img {border:2px solid orange; width: 75%; background-color: rgba(100, 250, 0, 0.2); z-index: -10; margin-top: -3%; margin-left: 10%; }
 
-div.text1 {border:2px solid orange; width: 85%; height: 350px; background-color: rgba(100, 250, 0, 0.2); margin-top: -5%; margin-left: 10%; }
+div.text1 {border:2px solid orange; width: 85%; height: 350px; background-color: rgba(100, 250, 0, 0.2); margin-top: -3%; margin-left: 10%; }
 
 div.店内2 img {border:2px solid orange; width: 85%; background-color: rgba(100, 250, 0, 0.2); margin-top: 0%; margin-left: 5%; }
 
 div.メニュー1 img {border:2px solid orange; width: 35%; background-color: rgba(100, 250, 0, 0.2); margin-top: 10%; margin-left: 10%; }
 
-div.text2 {border:2px solid orange; width: 35%; height: 490px; background-color: rgba(100, 250, 0, 0.2); margin-top: -5%; margin-left: 55%; }
+div.text2 {border:2px solid orange; width: 35%; height: 490px; background-color: rgba(100, 250, 0, 0.2); margin-top: -55%; margin-left: 55%; }
 
 div.emiko1 img {border:2px solid orange; width: 35%; background-color: rgba(100, 250, 0, 0.2); margin-top: 10%; margin-left: 10%; }
 
@@ -62,24 +62,24 @@ div.子 {border:2px solid orange; width: 85%; height: 490px; background-color: r
 div.親1 {border:2px solid aqua; width: 99%; height: 750px; background-color: rgba(0, 150, 50, 0.3); }
 div.親2 {border:2px solid lime; width: 99%; height: 750px; background-color: rgba(0, 150, 50, 0.3); }
 
-div.店内1 img {border:2px solid orange; width: 60%; background-color: rgba(100, 250, 0, 0.2); z-index: -10; margin-top: -5%; margin-left: 10%; }
+div.店内1 img {border:2px solid orange; width: 60%; background-color: rgba(100, 250, 0, 0.2); z-index: -10; margin-top: -0%; margin-left: 10%; }
 
-div.text1 {border:2px solid orange; width: 60%; height: 200px; background-color: rgba(100, 250, 0, 0.2); margin-top: -5%; margin-left: 10%; }
+div.text1 {border:2px solid orange; width: 60%; height: 200px; background-color: rgba(100, 250, 0, 0.2); margin-top: 0%; margin-left: 10%; }
 
 div.店内2 img {border:2px solid orange; width: 55%; background-color: rgba(100, 250, 0, 0.2); margin-top: 0%; margin-left: 5%; }
 
-div.メニュー1 img {border:2px solid orange; width: 15%; background-color: rgba(100, 250, 0, 0.2); margin-top: 10%; margin-left: 10%; }
+div.メニュー1 img {border:2px solid orange; width: 15%; background-color: rgba(100, 250, 0, 0.2); margin-top: 5%; margin-left: 10%; }
 
-div.text2 {border:2px solid orange; width: 35%; height: 400px; background-color: rgba(100, 250, 0, 0.2); margin-top: -5%; margin-left: 55%; }
+div.text2 {border:2px solid orange; width: 35%; height: 400px; background-color: rgba(100, 250, 0, 0.2); margin-top: -60%; margin-left: 55%; }
 
-div.emiko1 img {border:2px solid orange; width: 15%; background-color: rgba(100, 250, 0, 0.2); margin-top: 10%; margin-left: 10%; }
+div.emiko1 img {border:2px solid orange; width: 15%; background-color: rgba(100, 250, 0, 0.2); margin-top: 5%; margin-left: 10%; }
 
-div.text3 {border:2px solid orange; width: 35%; height: 400px; background-color: rgba(100, 250, 0, 0.2); margin-top: -40%; margin-left: 55%; }
+div.text3 {border:2px solid orange; width: 35%; height: 400px; background-color: rgba(100, 250, 0, 0.2); margin-top: 15%; margin-left: 55%; }
 
 div.子 {border:2px solid orange; width: 85%; height: 400px; background-color: rgba(100, 250, 0, 0.2); margin-top: 0px; margin-left: 0px; }
 
-.sns1 {border:2px solid pink; width: 20%; background-color: rgba(0, 250, 50, 0.2); margin-top: 15%; margin-left: 15%; }
-.sns2 {border:2px solid aqua; width: 20%; background-color: rgba(150, 50, 00, 0.2); margin-top: -50%; margin-left: 55%; }  
+.sns1 {border:2px solid pink; width: 10%; background-color: rgba(0, 250, 50, 0.2); margin-top: 15%; margin-left: 15%; }
+.sns2 {border:2px solid aqua; width: 10%; background-color: rgba(150, 50, 00, 0.2); margin-top: -50%; margin-left: 55%; }  
   
 }
 
