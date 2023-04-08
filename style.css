@@ -6,9 +6,9 @@ div.祖 {border:2px solid blue; width: 100%; background-color: rgba(200, 0, 100,
 div.親1 {border:2px solid aqua; width: 99%; height: 325px; background-color: rgba(0, 150, 50, 0.3); }
 div.親2 {border:2px solid lime; width: 99%; height: 650px; background-color: rgba(0, 150, 50, 0.3); }
 
-div.店内1 img {border:2px solid orange; width: 75%; background-color: rgba(100, 250, 0, 0.2); z-index: -10; margin-top: 10%; margin-left: 10%; }
+div.店内1 img {border:2px solid orange; width: 75%; background-color: rgba(100, 250, 0, 0.2); z-index: -10; margin-top: 10%; margin-left: 20%; }
 
-div.text1 {border:2px solid orange; width: 85%; height: 325px; background-color: rgba(100, 250, 0, 0.2); margin-top: 10%; margin-left: 10%; }
+div.text1 {border:2px solid orange; width: 85%; height: 325px; background-color: rgba(100, 250, 0, 0.2); margin-top: 10%; margin-left: 65%; }
 
 div.店内2 img {border:2px solid orange; width: 85%; background-color: rgba(100, 250, 0, 0.2); margin-top: 10%; margin-left: 10%; }
 
