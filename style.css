@@ -9,6 +9,10 @@
    width: 20%;
    border:1px solid #D49999; 
    background-color:rgba(0,250,200,0.2);
+     
+    margin-left: auto;
+    margin-right: auto;
+     
    z-index: 9;
 }
   
@@ -52,7 +56,11 @@ div.子 {border:2px solid orange; width: 85%; height: 275px; background-color: r
    width: 20%;
    border:1px solid #D49999; 
    background-color:rgba(0,250,200,0.2);
-   z-index: 9;
+        
+    margin-left: auto;
+    margin-right: auto;
+     
+    z-index: 9;
 }  
  
  div.祖 {border:2px solid blue; width: 100%; background-color: rgba(200, 0, 100, 0.2); display:flex; flex-flow: column; }
@@ -95,7 +103,11 @@ div.子 {border:2px solid orange; width: 85%; height: 490px; background-color: r
    width: 20%;
    border:1px solid #D49999; 
    background-color:rgba(0,250,200,0.2);
-   z-index: 9;
+        
+    margin-left: auto;
+    margin-right: auto;
+    
+    z-index: 9;
 }
    
  div.祖 {border:2px solid blue; width: 100%; background-color: rgba(200, 0, 100, 0.2); display:flex; flex-flow: column; }
