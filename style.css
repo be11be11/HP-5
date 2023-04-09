@@ -23,11 +23,11 @@ div.祖 {border:2px solid blue; width: 100%; background-color: rgba(200, 0, 100,
 div.親1 {border:2px solid aqua; width: 99%; height: 325px; background-color: rgba(0, 150, 50, 0.3); position: relative; }
 div.親2 {border:2px solid lime; width: 99%; height: 650px; background-color: rgba(0, 150, 50, 0.3); position: relative; }
 
-div.店内1 img {border:2px solid orange; width: 75%; background-color: rgba(100, 250, 0, 0.2); z-index: -10; position: absolute; margin-top: auto; margin-left: auto; }
+div.店内1 img {border:2px solid orange; width: 75%; background-color: rgba(100, 250, 0, 0.2); z-index: -10; margin-top: auto; margin-left: auto; }
 
-div.text1 {border:2px solid orange; width: 85%; height: 325px; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 0; margin-left: auto; }
+div.text1 {border:2px solid orange; width: 85%; height: 325px; background-color: rgba(100, 250, 0, 0.2); margin-top: 0; margin-left: auto; }
 
-div.店内2 img {border:2px solid orange; width: 85%; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 0; margin-left: auto; }
+div.店内2 img {border:2px solid orange; width: 85%; background-color: rgba(100, 250, 0, 0.2); margin-top: 0; margin-left: auto; }
 
  div.ヘア1 img {border:2px solid orange; width: 25%; background-color: rgba(100, 250, 0, 0.2); z-index: -10; position: absolute; margin-top: 0%; margin-left: 3%; }
  div.ヘア2 img {border:2px solid orange; width: 25%; background-color: rgba(100, 250, 0, 0.2); z-index: -10; position: absolute; margin-top: 1%; margin-left: 2%; }
@@ -73,11 +73,11 @@ p {
 div.親1 {border:2px solid aqua; width: 99%; height: 450px; background-color: rgba(0, 150, 50, 0.3); position: relative; }
 div.親2 {border:2px solid lime; width: 99%; height: 900px; background-color: rgba(0, 150, 50, 0.3); position: relative;}
 
-div.店内1 img {border:2px solid orange; width: 75%; background-color: rgba(100, 250, 0, 0.2); z-index: -10; position: absolute; margin-top: auto; margin-left: auto; }
+div.店内1 img {border:2px solid orange; width: 75%; background-color: rgba(100, 250, 0, 0.2); z-index: -10; margin-top: auto; margin-left: auto; }
 
-div.text1 {border:2px solid orange; width: 85%; height: 350px; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 0; margin-left: auto; }
+div.text1 {border:2px solid orange; width: 85%; height: 350px; background-color: rgba(100, 250, 0, 0.2); margin-top: 0; margin-left: auto; }
 
-div.店内2 img {border:2px solid orange; width: 75%; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 0; margin-left: auto; }
+div.店内2 img {border:2px solid orange; width: 75%; background-color: rgba(100, 250, 0, 0.2); margin-top: 0; margin-left: auto; }
 
  div.ヘア1 img {border:2px solid orange; width: 25%; background-color: rgba(100, 250, 0, 0.2); z-index: -10; position: absolute; margin-top: 0%; margin-left: 3%; }
  div.ヘア2 img {border:2px solid orange; width: 25%; background-color: rgba(100, 250, 0, 0.2); z-index: -10; position: absolute; margin-top: 1%; margin-left: 2%; }
@@ -123,11 +123,11 @@ p {
 div.親1 {border:2px solid aqua; width: 99%; height: 750px; background-color: rgba(0, 150, 50, 0.3); position: relative; }
 div.親2 {border:2px solid lime; width: 99%; height: 750px; background-color: rgba(0, 150, 50, 0.3); position: relative; }
 
-div.店内1 img {border:2px solid orange; width: 60%; background-color: rgba(100, 250, 0, 0.2); z-index: -10; position: absolute; margin-top: auto; margin-left: auto; }
+div.店内1 img {border:2px solid orange; width: 60%; background-color: rgba(100, 250, 0, 0.2); z-index: -10; margin-top: auto; margin-left: auto; }
 
-div.text1 {border:2px solid orange; width: 60%; height: 200px; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 0; margin-left: auto; }
+div.text1 {border:2px solid orange; width: 60%; height: 200px; background-color: rgba(100, 250, 0, 0.2); margin-top: 0; margin-left: auto; }
 
-div.店内2 img {border:2px solid orange; width: 45%; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 0; margin-left: auto; }
+div.店内2 img {border:2px solid orange; width: 45%; background-color: rgba(100, 250, 0, 0.2); margin-top: 0; margin-left: auto; }
    
  div.ヘア1 img {border:2px solid orange; width: 25%; background-color: rgba(100, 250, 0, 0.2); z-index: -10; position: absolute; margin-top: 0%; margin-left: 3%; }
  div.ヘア2 img {border:2px solid orange; width: 25%; background-color: rgba(100, 250, 0, 0.2); z-index: -10; position: absolute; margin-top: 1%; margin-left: 2%; }
