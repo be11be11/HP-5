@@ -10,8 +10,7 @@
    border:1px solid #D49999; 
    background-color:rgba(0,250,200,0.2);
      
-    margin-left: auto;
-    margin-right: auto;
+    text-align: center;
      
    z-index: 9;
 }
@@ -57,8 +56,7 @@ div.子 {border:2px solid orange; width: 85%; height: 275px; background-color: r
    border:1px solid #D49999; 
    background-color:rgba(0,250,200,0.2);
         
-    margin-left: auto;
-    margin-right: auto;
+    text-align: center;
      
     z-index: 9;
 }  
@@ -104,8 +102,7 @@ div.子 {border:2px solid orange; width: 85%; height: 490px; background-color: r
    border:1px solid #D49999; 
    background-color:rgba(0,250,200,0.2);
         
-    margin-left: auto;
-    margin-right: auto;
+    text-align: center;
     
     z-index: 9;
 }
