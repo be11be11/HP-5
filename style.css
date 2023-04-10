@@ -26,7 +26,11 @@ div.親3 {border:2px solid lime; width: 99%; height: 750px; background-color: rg
 div.親4 {border:2px solid lime; width: 99%; height: 750px; background-color: rgba(0, 150, 50, 0.3); position: relative; }
   
 div.店内1 img {border:2px solid orange; width: 90%; background-color: rgba(100, 250, 0, 0.2); z-index: -10; position: absolute;
-  top: 50%;/*コレ*/left: 50%;/*コレ*/transform: translate(-50%,-50%);}
+ left: 0;
+ right: 0;
+ top: 0;
+ bottom: 0;
+ margin: auto; }
 
 div.text1 {border:2px solid orange; width: 85%; height: 325px; background-color: rgba(100, 250, 0, 0.2); }
 
@@ -79,9 +83,11 @@ div.親3 {border:2px solid lime; width: 99%; height: 750px; background-color: rg
 div.親4 {border:2px solid lime; width: 99%; height: 750px; background-color: rgba(0, 150, 50, 0.3); position: relative; }
    
 div.店内1 img {border:2px solid orange; width: 85%; background-color: rgba(100, 250, 0, 0.2); z-index: -10; position: absolute;
-    top: 50%;
-    /*コレ*/left: 50%;
-    /*コレ*/transform: translate(-50%,-50%); }
+ left: 0;
+ right: 0;
+ top: 0;
+ bottom: 0;
+ margin: auto; }
 
 div.text1 {border:2px solid orange; width: 85%; height: 350px; background-color: rgba(100, 250, 0, 0.2); } 
 
@@ -134,9 +140,11 @@ div.親3 {border:2px solid lime; width: 99%; height: 750px; background-color: rg
 div.親4 {border:2px solid lime; width: 99%; height: 750px; background-color: rgba(0, 150, 50, 0.3); position: relative; }
    
 div.店内1 img {border:2px solid orange; width: 75%; background-color: rgba(100, 250, 0, 0.2); z-index: -10; position: absolute;
-    top: 50%;
-    /*コレ*/left: 50%;
-    /*コレ*/transform: translate(-50%,-50%);}
+   left: 0;
+ right: 0;
+ top: 0;
+ bottom: 0;
+ margin: auto; }
 
 div.text1 {border:2px solid orange; width: 60%; height: 200px; background-color: rgba(100, 250, 0, 0.2); }
 
