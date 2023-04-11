@@ -53,8 +53,8 @@ div.子 {border:2px solid orange; width: 85%; height: 275px; background-color: r
 
 .sns1 {border:2px solid pink; width: 10%; background-color: rgba(0, 250, 50, 0.2); position: absolute; margin-top: 1%; margin-left: 20%; }
 .sns2 {border:2px solid aqua; width: 10%; background-color: rgba(150, 50, 00, 0.2); position: absolute; margin-top: 1%; margin-left: 60%; }  
-div.text4 {border:2px solid orange; width: 25%; height: 100px; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 15%; margin-left: 15%; }  
-div.店内3 img {border:2px solid orange; width: 35%; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 20%; margin-left: 55%; }
+div.text4 {border:2px solid orange; width: 25%; height: 100px; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 40%; margin-left: 15%; }  
+div.店内3 img {border:2px solid orange; width: 35%; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 55%; margin-left: 55%; }
   
 }
 
@@ -112,8 +112,8 @@ div.子 {border:2px solid orange; width: 85%; height: 490px; background-color: r
 
 .sns1 {border:2px solid pink; width: 10%; background-color: rgba(0, 250, 50, 0.2); position: absolute; margin-top: 1%; margin-left: 20%; }
 .sns2 {border:2px solid aqua; width: 10%; background-color: rgba(150, 50, 00, 0.2); position: absolute; margin-top: 1%; margin-left: 60%; }  
-div.text4 {border:2px solid orange; width: 25%; height: 100px; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 15%; margin-left: 15%; }  
-div.店内3 img {border:2px solid orange; width: 35%; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 20%; margin-left: 55%; }
+div.text4 {border:2px solid orange; width: 25%; height: 100px; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 40%; margin-left: 15%; }  
+div.店内3 img {border:2px solid orange; width: 35%; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 55%; margin-left: 55%; }
    
 }
 
