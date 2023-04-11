@@ -94,9 +94,9 @@ div.text1 {border:2px solid orange; width: 85%; height: 350px; background-color:
 div.店内2 img {border:2px solid orange; width: 75%; background-color: rgba(100, 250, 0, 0.2); display: block; margin: 0 auto; }
 
  div.ヘア1 img {border:2px solid orange; width: 25%; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 5%; margin-left: 5%; }
- div.ヘア2 img {border:2px solid orange; width: 25%; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 60%; margin-left: 25%; }
- div.ヘア3 img {border:2px solid orange; width: 25%; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 5%; margin-left: 47%; }
- div.ヘア4 img {border:2px solid orange; width: 25%; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 60%; margin-left: 70%; }
+ div.ヘア2 img {border:2px solid orange; width: 25%; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 70%; margin-left: 25%; }
+ div.ヘア3 img {border:2px solid orange; width: 25%; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: -1%; margin-left: 47%; }
+ div.ヘア4 img {border:2px solid orange; width: 25%; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 70%; margin-left: 70%; }
    
 div.メニュー1 img {border:2px solid orange; width: 35%; background-color: rgba(100, 250, 0, 0.2); margin-top: 3%; margin-left: 7%; }
 
@@ -157,7 +157,7 @@ div.店内2 img {border:2px solid orange; width: 45%; background-color: rgba(100
 
 div.メニュー1 img {border:2px solid orange; width: 15%; background-color: rgba(100, 250, 0, 0.2); margin-top: 5%; margin-left: 10%; }
 
-div.text2 {border:2px solid orange; width: 35%; height: 400px; background-color: rgba(100, 250, 0, 0.2); margin-top: -10%; margin-left: 50%; }
+div.text2 {border:2px solid orange; width: 35%; height: 400px; background-color: rgba(100, 250, 0, 0.2); margin-top: -20%; margin-left: 50%; }
 
 div.emiko1 img {border:2px solid orange; width: 15%; background-color: rgba(100, 250, 0, 0.2); margin-top: 5%; margin-left: 10%; }
 
