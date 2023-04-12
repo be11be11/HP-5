@@ -21,7 +21,7 @@ p {
 div.祖 {width: 100%; display:flex; flex-flow: column; position: relative; }
 div.親1 {width: 99%; height: 325px; position: relative; }
 div.親2 {width: 99%; height: 700px; display: flex; flex-flow: column; text-align: center; }
-div.親3 {border: 2px solid lime; background-color:rgba(0,250,200,0.2); display: flex; flex-wrap: wrap; width: 99%; }
+div.親3 {border: 2px solid lime; background-color:rgba(0,250,200,0.2); display: flex; flex-wrap: wrap; width: 420px; }
 div.親4 {width: 99%; height: 550px; position: relative; }
   
 div.店内1 img {width: 98.5%; position: absolute;
