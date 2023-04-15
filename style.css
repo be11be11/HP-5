@@ -5,7 +5,7 @@
 .bar {
    position: fixed; /* 固定配置 */
 　　box-sizing: border-box;
-　　margin-left: -35%; 
+　　margin-left: -70%; 
    top: 10px;  /* 基点（ウィンドウ）からの距離 */
    right: 20px;  /* 基点（ウィンドウ）からの距離 */
    width: 20%;
