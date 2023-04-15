@@ -1,12 +1,14 @@
 @charset "UTF-8";
 
 @media screen and (min-width:10px) and (max-width:500px){
-  
+
+　html, css{touch-action:none;} 
+
 .bar {
    position: fixed; /* 固定配置 */
 　　box-sizing: border-box; 
    top: 10px;  /* 基点（ウィンドウ）からの距離 */
-   left: 40%;  /* 基点（ウィンドウ）からの距離 */
+   left: 37.5%;  /* 基点（ウィンドウ）からの距離 */
    width: 20%;
    background-color:rgba(0,250,200,0.2);
    z-index: 9;
