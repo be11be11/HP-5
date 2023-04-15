@@ -22,7 +22,7 @@ p {
 div.祖 {width: 100%; padding: 2px; border: 1.5px solid pink; display: flex; flex-flow: column; position: relative; touch-action:none; }
 div.親1 {width: 99%; height: 325px; position: relative; }
 div.親2 {width: 99%; height: 700px; display: flex; flex-flow: column; text-align: center; }
-div.親3 {width: 99%; height: 750px; display: flex; flex-flow: column; border: 2px solid lime; background-color:rgba(0,250,200,0.2); text-align: left; font-size: 90%; }
+div.親3 {width: 99%; height: 750px; display: flex; flex-flow: column; border: 2px solid lime; background-color:rgba(0,250,200,0.2); box-sizing: border-box; text-align: left; font-size: 90%; }
 div.親4 {width: 99%; height: 550px; position relative; }
   
 div.店内1 img {width: 98.5%; position: absolute;
@@ -36,7 +36,7 @@ div.text1 {width: 85%; height: 325px; margin: 0 auto; }
 div.店内2 img {width: 85%; display: block; margin: 0 auto; }
 
  div.text5 {border:2px solid orange; width: 60%; height: 20px; background-color: rgba(100, 250, 0, 0.2); text-align: left; font-size: 90%;}
- div.子1 {border: 2px solid green; background-color:rgba(0,250,200,0.2); display: flex; width: 375px; height: 345px;}
+ div.子1 {border: 2px solid green; background-color:rgba(0,250,200,0.2); display: flex; box-sizing: border-box; width: 375px; height: 345px;}
  
 div.ヘア1 img {border: 3px solid orange; background-color:rgba(0,250,200,0.2); width: 160px; margin-top: ; margin-left: -20%; }
 div.ヘア2 img {border: 3px solid orange; background-color:rgba(0,250,200,0.2); width: 160px; margin-top: ; margin-left: -5%; }
