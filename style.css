@@ -18,7 +18,7 @@ p {
   z-index: 10; 
 }
   
-div.祖 {width: 100%; display:flex; flex-flow: column; position: relative; }
+div.祖 {width: 100%; padding: 2px; border: 1.5px solid pink; display: flex; flex-flow: column; position: relative; }
 div.親1 {width: 99%; height: 325px; position: relative; }
 div.親2 {width: 99%; height: 700px; display: flex; flex-flow: column; text-align: center; }
 div.親3 {width: 99%; height: 750px; display: flex; flex-flow: column; border: 2px solid lime; background-color:rgba(0,250,200,0.2); text-align: left; font-size: 90%; }
