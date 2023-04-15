@@ -4,10 +4,9 @@
   
 .bar {
    position: fixed; /* 固定配置 */
-　　box-sizing: border-box;
-　　margin-left: -70%; 
+　　box-sizing: border-box; 
    top: 10px;  /* 基点（ウィンドウ）からの距離 */
-   right: 20px;  /* 基点（ウィンドウ）からの距離 */
+   left: 65%;  /* 基点（ウィンドウ）からの距離 */
    width: 20%;
    background-color:rgba(0,250,200,0.2);
    z-index: 9;
