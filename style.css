@@ -35,12 +35,12 @@ div.text1 {width: 85%; height: 325px; margin: 0 auto; }
 div.店内2 img {width: 85%; display: block; margin: 0 auto; }
 
  div.text5 {border:2px solid orange; width: 60%; height: 20px; background-color: rgba(100, 250, 0, 0.2); text-align: left; font-size: 90%;}
- div.子1 {border: 2px solid green; background-color:rgba(0,250,200,0.2); display: flex; flex-wrap: wrap; width: 375px; height: 355px;}
+ div.子1 {border: 2px solid green; background-color:rgba(0,250,200,0.2); display: flex; flex-wrap: wrap; width: 375px; height: 345px;}
  
-div.ヘア1 img {border: 5px solid orange; background-color:rgba(0,250,200,0.2); width: 175px; box-sizing:border-box; flex-basis: 175px;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作 }
-div.ヘア2 img {border: 5px solid orange; background-color:rgba(0,250,200,0.2); width: 175px; box-sizing:border-box; flex-basis: 175px;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作 }
-div.ヘア3 img {border: 5px solid orange; background-color:rgba(0,250,200,0.2); width: 175px; box-sizing:border-box; flex-basis: 175px;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作 }  
-div.ヘア4 img {border: 5px solid orange; background-color:rgba(0,250,200,0.2); width: 175px; box-sizing:border-box; flex-basis: 175px;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作 }
+div.ヘア1 img {border: 3px solid orange; background-color:rgba(0,250,200,0.2); width: 160px; box-sizing:border-box; flex-basis: 160px;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作 }
+div.ヘア2 img {border: 3px solid orange; background-color:rgba(0,250,200,0.2); width: 160px; box-sizing:border-box; flex-basis: 160px;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作 }
+div.ヘア3 img {border: 3px solid orange; background-color:rgba(0,250,200,0.2); width: 160px; box-sizing:border-box; flex-basis: 160px;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作 }  
+div.ヘア4 img {border: 3px solid orange; background-color:rgba(0,250,200,0.2); width: 160px; box-sizing:border-box; flex-basis: 160px;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作 }
   
  div.メニュー1 img {width: 35%; margin-top: 1%; margin-left: 5%; }
 
